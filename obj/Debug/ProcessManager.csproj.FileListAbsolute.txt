@@ -8,3 +8,4 @@ D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
 D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
 D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.MainWindow.resources
 D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.SubWindow1.resources
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojAssemblyReference.cache

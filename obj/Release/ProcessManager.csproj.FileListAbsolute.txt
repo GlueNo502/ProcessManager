@@ -1,0 +1,11 @@
+D:\VS\ProcessManager\ProcessManager\bin\Release\ProcessManager.exe.config
+D:\VS\ProcessManager\ProcessManager\bin\Release\ProcessManager.exe
+D:\VS\ProcessManager\ProcessManager\bin\Release\ProcessManager.pdb
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.csprojAssemblyReference.cache
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.MainWindow.resources
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.Properties.Resources.resources
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.SubWindow1.resources
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.csproj.GenerateResource.cache
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.csproj.CoreCompileInputs.cache
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.exe
+D:\VS\ProcessManager\ProcessManager\obj\Release\ProcessManager.pdb
