@@ -1,0 +1,10 @@
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+D:\VS\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe.config
+D:\VS\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+D:\VS\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.MainWindow.resources
+D:\VS\ProcessManager\ProcessManager\obj\Debug\ProcessManager.SubWindow1.resources
